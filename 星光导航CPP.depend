@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1571971643 source:d:\mycppspace\星光导航cpp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"manage_picture.h"
+	"star_distinguish.h"
+	"fun_quest.h"
+	"inverse.h"
+	"quest2mat.h"
+	<iostream>
+
+1572491706 d:\mycppspace\星光导航cpp\manage_picture.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+
+1572654477 d:\mycppspace\星光导航cpp\star_distinguish.h
+
+1571971590 d:\mycppspace\星光导航cpp\fun_quest.h
+	<math.h>
+
+1572501420 d:\mycppspace\星光导航cpp\inverse.h
+	<stdio.h>
+	<malloc.h>
+
+1571971679 d:\mycppspace\星光导航cpp\quest2mat.h
+
+1574039597 source:d:\mycppspace\star_navigate\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"manage_picture.h"
+	"star_distinguish.h"
+	"fun_quest.h"
+	"inverse.h"
+	"quest2mat.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1576553997 d:\mycppspace\star_navigate\manage_picture.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+
+1574040665 d:\mycppspace\star_navigate\star_distinguish.h
+
+1571971590 d:\mycppspace\star_navigate\fun_quest.h
+	<math.h>
+
+1572779143 d:\mycppspace\star_navigate\inverse.h
+	<stdio.h>
+	<malloc.h>
+
+1571971679 d:\mycppspace\star_navigate\quest2mat.h
+
+1574038682 d:\mycppspace\star_navigate\star_distinguish_1.h
+	<iostream>
+
+1578136439 source:g:\星光\star_navigate\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"manage_picture.h"
+	"star_distinguish.h"
+	"fun_quest.h"
+	"inverse.h"
+	"quest2mat.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1580608807 g:\星光\star_navigate\manage_picture.h
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<math.h>
+	<iostream>
+
+1579427407 g:\星光\star_navigate\star_distinguish.h
+
+1571971590 g:\星光\star_navigate\fun_quest.h
+	<math.h>
+
+1572779143 g:\星光\star_navigate\inverse.h
+	<stdio.h>
+	<malloc.h>
+
+1571971679 g:\星光\star_navigate\quest2mat.h
+
